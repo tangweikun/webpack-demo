@@ -16,3 +16,5 @@ npx webpack --config webpack.config.js
 ```bash
 npm run build
 ```
+
+## s2 加载 CSS
