@@ -18,3 +18,5 @@ npm run build
 ```
 
 ## s2 加载 CSS
+
+## s2-1 加载图片
