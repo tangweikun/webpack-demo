@@ -10,3 +10,9 @@ npx webpack
 ```bash
 npx webpack --config webpack.config.js
 ```
+
+## s1-3 NPM 脚本
+
+```bash
+npm run build
+```
